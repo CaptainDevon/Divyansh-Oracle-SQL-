@@ -14,6 +14,7 @@ create table employees
 );
 
 
+
 create table departments 
 (
     department_id integer primary key,
